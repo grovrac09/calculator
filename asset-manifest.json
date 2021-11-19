@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/grovrac09/calculator/static/css/main.75077aa6.chunk.css",
+    "main.js": "/grovrac09/calculator/static/js/main.bf983d3f.chunk.js",
+    "main.js.map": "/grovrac09/calculator/static/js/main.bf983d3f.chunk.js.map",
+    "runtime-main.js": "/grovrac09/calculator/static/js/runtime-main.a8258e70.js",
+    "runtime-main.js.map": "/grovrac09/calculator/static/js/runtime-main.a8258e70.js.map",
+    "static/js/2.4f695d4b.chunk.js": "/grovrac09/calculator/static/js/2.4f695d4b.chunk.js",
+    "static/js/2.4f695d4b.chunk.js.map": "/grovrac09/calculator/static/js/2.4f695d4b.chunk.js.map",
+    "index.html": "/grovrac09/calculator/index.html",
+    "static/css/main.75077aa6.chunk.css.map": "/grovrac09/calculator/static/css/main.75077aa6.chunk.css.map",
+    "static/js/2.4f695d4b.chunk.js.LICENSE.txt": "/grovrac09/calculator/static/js/2.4f695d4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8258e70.js",
+    "static/js/2.4f695d4b.chunk.js",
+    "static/css/main.75077aa6.chunk.css",
+    "static/js/main.bf983d3f.chunk.js"
+  ]
+}
